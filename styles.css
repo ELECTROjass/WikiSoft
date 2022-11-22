@@ -1,0 +1,50 @@
+
+.container {
+    width: 90%;
+    margin: auto;   
+}
+.nav-main {
+    font-size: 17px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    padding: 20px 0;
+}
+
+/*Nav center*/
+
+.nav-main ul {
+    display: flex;
+    list-style: none;
+    text-align: center;
+}
+.nav-main ul li {
+    padding: 70px;
+}
+hr{
+    padding-left: 1px;
+}
+.container2{
+    background-color: #354250;
+    padding: 5% ;
+}
+.titulo {
+    text-align: center;
+}
+.body{
+    padding: 0 10% 5% 10%;
+    color: aliceblue;
+}
+.subtitulo{
+    font-weight:bold;
+}
+.tab{
+    padding-left: 5%;
+}
+.tab2{
+    padding-left: 5%;
+}
+.bolded{
+    font-weight:bold;
+}
