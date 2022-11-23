@@ -88,20 +88,23 @@ footer{
     height: max-content;
     padding: 1px 0 1px 0;
     text-align: center;
-    
 }
 .footer{
     position: relative;
-    left: 35%;
     padding: 2%;
+    margin: auto;    
 }
 .footer tr{
-    width: 80%;
+    width: 100%;
 }
 .footer td{
-    padding-left: 10% ;
     padding-top: 1px;
+    padding-left: 5%;
+
 }
 footer p{
     padding: 0 0 2% 0;
+}
+footer a{
+    color: white;
 }
